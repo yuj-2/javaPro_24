@@ -7,6 +7,7 @@ public class Ex01 {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("hi");
 	}
 
 }
