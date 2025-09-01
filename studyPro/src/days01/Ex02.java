@@ -6,4 +6,5 @@ public class Ex02 {
 		System.out.println("복습"); 
 		System.out.println("복습");
 	}
+	
 }
